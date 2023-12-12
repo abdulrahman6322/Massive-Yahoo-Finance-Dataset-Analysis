@@ -24,3 +24,26 @@ Machine learning enthusiasts can employ this dataset for developing predictive m
 Note: Prior to using this dataset, it's recommended to perform data cleaning, handling missing values, and verifying the consistency of data across companies and time periods.
 
 License: The dataset is sourced from Yahoo Finance and is provided for analytical purposes. Refer to Yahoo Finance's terms of use for further details on data usage and licensing.
+
+# Exploratory Data Analysis
+
+Loading and Explanation of Data
+Unique Value Analysis
+Missing Value Analysis
+Categoric Features Analysis
+Numeric Features Analysis
+Numeric Features Scaling
+Numeric Features - Data Melting
+Numeric Features - Data Visualization
+Correlation Analysis</br></br>
+Preparing Data
+
+Fixing Missing Values
+Outlier Detection
+Categoric Variables - Encoding</br></br>
+Modeling
+
+Train/Test Split
+Model Select & Fit
+Hyperparameter Tuning
+
