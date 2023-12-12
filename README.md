@@ -1,5 +1,5 @@
 # Massive-Yahoo-Finance-Dataset-Analysis
-About Dataset
+About Dataset (https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset/)
 Title: Stock Prices of 500 Biggest Companies by Market Cap (Last 5 Years)
 
 Description:
@@ -7,7 +7,7 @@ This dataset comprises historical stock market data extracted from Yahoo Finance
 
 Attributes:
 
-Date: The date corresponding to the recorded stock market data.
+Date: The date corresponding to the recorded stock market data.</b>
 Open: The opening price of the stock on a given date.
 High: The highest price of the stock reached during the trading day.
 Low: The lowest price of the stock observed during the trading day.
